@@ -15,7 +15,7 @@ var textNode = document.createTextNode(text);
 H1.appendChild(textNode);
 document.body.appendChild(H1);
 
-document.write('<h2>This is inner H2 </h2> ')
+// document.write('<h2>This is inner H2 </h2> ')
 };
 
 welcomeMessage();
